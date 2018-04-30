@@ -1,6 +1,6 @@
 {
   "name": "callbag-pluck",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "👜 Callbag operator that maps to object properties.",
   "main": "dist/callbag-pluck.js",
   "module": "dist/callbag-pluck.es.js",
